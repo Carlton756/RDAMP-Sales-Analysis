@@ -38,6 +38,7 @@ This report will serve as a baseline to identify regional performance gaps, cust
 -	Discount column had null values so I treating these as no discount and fill the null values with 0s.
 -	I promoted the first row as header for the Store Locations dataset.
 -	Renamed tables: Ace Superstore RetailFact and Store LocationsDim
+-	Changed the Order Date datatype to Short Date format.
 ### Creation of Measure using Power BI
 -	Created the following measures to aid in analysis prior to visualization:
   1. Gross Profit per Unit = 
@@ -64,3 +65,6 @@ SUMX(
 )
   7. Total Units = SUM('Ace Superstore RetailFact'[Quantity])
 - As the Sales and Cost Price columns contained negative values, I created the above measures to manage these without the analysis being affected.
+# Dashboard images
+
+
