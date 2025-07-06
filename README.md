@@ -6,10 +6,9 @@ This report will serve as a baseline to identify regional performance gaps, cust
 - Columns: [Order ID], [Order Date], [Order Mode], [Customer ID],	[City], [Postal Code], [Country],	[Region],	[Product ID],	[Product Name],	[Category],	[Sub-Category],	[Sales],	[Cost Price],	[Quantity],	[Discount]
 - Store Locations.xlsx
 - Columns: [City],	[Postal Code],	[Country],	[Region]
-![image](https://github.com/user-attachments/assets/07b6460d-6866-4437-8cad-cd5acd5d3db8)
-
-![image](https://github.com/user-attachments/assets/dedd7f61-d278-4557-bd7c-f0e7b151f5c1)
-
+# Tools utilized for data analysis
+- Microsoft Excel
+- Microsoft Power BI
 # Exploratory Data Analysis
 ## Analysis using Excel
 -	The datasets I am working with are Ace Superstore Retail and Store Locations.
