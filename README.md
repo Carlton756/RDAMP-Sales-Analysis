@@ -54,4 +54,4 @@ SUMX(
     IF('Ace Superstore RetailFact'[Sales] > 0, 'Ace Superstore RetailFact'[Sales] * 'Ace Superstore RetailFact'[Quantity], 0)
 )
   7. Total Units = SUM('Ace Superstore RetailFact'[Quantity])
-As the Sales and Cost Price columns contained negative values, I created the above measures to manage these without the analysis being affected.
+- As the Sales and Cost Price columns contained negative values, I created the above measures to manage these without the analysis being affected.
