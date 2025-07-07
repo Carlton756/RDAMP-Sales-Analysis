@@ -203,5 +203,26 @@ Key KPIs:
 ![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/d8d9c6062b6e1bc7751d34879a89962330977d8c/Sales%20channel%20insights.png)
 ## Gross Profit per Unit dashboard
 ![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/000083b45aeca40d012ff715a3cdfc5964cab4e2/Gross%20profit%20per%20unit%20by%20product%20insights.png)
+## Recommendations
+### Both North East and Wales significantly underperformed in both revenue and sales – 
+-	Investigate to ascertain the contributing factors to the low figures in sales and revenue by conducting localized market research.
+-	Spearhead regional promotions to stimulate sales.
+### East Midlands, Yorkshire and the Humber, Scotland, London and South West performed very well in both revenue and sales – 
+-	Maintain focus within these regions by finding improved ways to enhance marketing of products, run more market campaigns.
+### Segments such as Vegetarian, Spreads, Dressing, Protein and Salad Toppings generated negligible sales and revenue – 
+-	Phase out these underperformers.
+-	Place more emphasis on top sellers that are top gross profit per unit generators such as Electric Bikes, Portable Solar Generators, Compact Appliances and Foldable Electric Scooter.
+-	Implement higher margin alternatives to replace underperforming sub-categories like Gourmet Ice Cream with Frozen Fruit Bars which is a favorite of children.
+### Overall profit margin is strong at 68%, but some sub-categories such as Root Vegetables at 49.6%, have a negative impact on this – 
+-	Possibly switch suppliers for low-margin categories.
+-	Consider dynamic pricing models based on seasonal trends and inventory turnover.
+### Online and In-/store revenue are almost balanced, but so far 2025 performance figures have fallen compared to 2024 figures for the same period – 
+-	Reexamine online user experience and checkout information to identify any negative contributing factors e.g., cart abandonment or payment failures.
+-	Introduce channel specific deals such as online or in-store loyalty campaigns.
+-	Implement click-and-collect options as enhance convenience is a welcomed feature. This would also lead to an increase in basket size
+### Discount varied by region and segment – 
+-	Revisit historical data of discounts over prior time periods. This would paint a clearer picture as to how sales and revenue are affected with a focus on periods when smaller discounts produced higher gains for the company.
+-	Place more focus on specific loyalty programs and less focus on wide spread discounts.
+
 
 
