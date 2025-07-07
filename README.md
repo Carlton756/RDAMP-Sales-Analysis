@@ -197,5 +197,13 @@ Key KPIs:
 # Dashboard images
 ## Sales, Revenue and Discount dashboard
 ![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/9b17738bdc2441a6db6747ece5dc9510cb925ac8/Summary%20of%20sales%2C%20revenue%20and%20discount%20rates.png)
+## Top Seller & Underperformers dashboard
+![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/f49a79bb97349414c7e8d39e151058ff659bb710/Top%20sellers%20and%20underperformers.png)
+## Profit Margin dashboard
+![image alt](
+## Sales Channel dashboard
+![image alt](
+## Gross Profit per Unit dashboard
+![image alt](
 
 
