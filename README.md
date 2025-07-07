@@ -1,6 +1,6 @@
 # RDAMP-Sales-Analysis
-This project is the first of four projects that I have been working on as part of the Realcare Tech Mark LTD mentorship program. I have decided to utilize my knowledge of Excel and Power BI as tools to create a report that answers foundational business questions. This project gives an overview of key sales performance trends for ACE, a nationwide retail chain, between 2023 - 2025.
-This report will serve as a baseline to identify regional performance gaps, customer behaviour patterns, and product category profitability, helping the executive team of ACE focus on high-impact areas in subsequent strategy sessions.
+This project is the first of four projects that is part of the Realcare Tech Mark LTD mentorship program. I have decided to utilize my knowledge of Excel and Power BI as tools to create a report that answers foundational business questions. This project gives an overview of key sales performance trends for ACE Superstore, a nationwide retail chain, between 2023 - 2025.
+This report serves as a baseline to identify regional performance gaps, customer behaviour patterns, and product category profitability, helping the executive team of ACE focus on high-impact areas in subsequent strategy sessions.
 # Dataset Provided
 - Ace Superstore Retail Dataset.csv
 - Columns: [Order ID], [Order Date], [Order Mode], [Customer ID],	[City], [Postal Code], [Country],	[Region],	[Product ID],	[Product Name],	[Category],	[Sub-Category],	[Sales],	[Cost Price],	[Quantity],	[Discount]
