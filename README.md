@@ -128,7 +128,7 @@ Total Revenue in relation to product segment ranged from £378,040 (Outdoor), th
 -	Salad Toppings - £103
 -	Protein - £90
 -	Dressing - £55
-# DISCOUNT
+## DISCOUNT
 -	Average Discount in relation to all 12 regions range from 0.167 (North East), the highest to 0.149 (South West), which is the lowest.
 -	Average Discount in relation to segment range from 0.200 (Baking & Cooking), the highest to 0.080 (Apps), which is the lowest.
 ## TOP SELLERS
