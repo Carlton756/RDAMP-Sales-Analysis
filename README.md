@@ -145,8 +145,6 @@ A summary of top selling and underselling products indicated the following:
 -	Canned Black Beans - £9
 -	Baking Soda - £9
 -	Cinnamon Raisin Bagels - £6
-
-
 ## PROFIT MARGIN
 A summary of high and low profit margin product by category and sub-category indicated the following:
 ### The top 5 product categories with the highest profit margin:
@@ -162,7 +160,7 @@ A summary of high and low profit margin product by category and sub-category ind
 -	Furniture – 60.0%
 -	Apps – 59.7%
 ### The top 5 products sub-categories with the highest profit margin:
--	Frozen Potatoe Products – 82.6%
+-	Frozen Potato Products – 82.6%
 -	Fruit Dips – 80.9%
 -	Vinaigrettes – 80.5%
 -	Oatmeal – 80.0%
