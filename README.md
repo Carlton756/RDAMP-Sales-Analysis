@@ -65,6 +65,133 @@ SUMX(
 )
   7. Total Units = SUM('Ace Superstore RetailFact'[Quantity])
 - As the Sales and Cost Price columns contained negative values, I created the above measures to manage these without the analysis being affected.
+
+# ACE SUPERSTORE RETAIL PERFORMANCE & STRATEGIC INSIGHTS
+Upon analyzing ACE Superstore Retail sales figures for the reporting period between 2023 – 2025 some key KPIs to highlight are as follows:
+-	Total Revenue = £3.10M
+-	Total Sales = £293.89K
+-	Total Cost = £1.02M
+-	Total Units Sold = 113K
+-	Profit Margin (%) = 68%
+A summary of total sales, Revenue and discount by Region and Segment indicated the following:
+## SALES
+Total Sales in relation to all 12 regions ranged from £47,906 (East Midlands), the highest, to £2,943 (North East), which is the lowest.
+### The top 5 performing regions in Total Sales are:
+-	East Midlands - £47,906
+-	Yorkshire and the Humber - £40,909
+-	Scotland - £35,036
+-	London - £32,535
+-	South East - £28,257
+### The top 5 underperforming regions in Total Sales are:
+-	West Midlands - £22,321
+-	East of England - £15,927
+-	Northern Ireland - £8,896
+-	Wales - £3,854
+-	North East - £2,943
+  
+Total Sales in relation to product segment ranged from £34,729 (Outdoor), the highest, to £7 (Dressing), which the lowest.
+### The top 5 performing segments in Total Sales are:
+-	Outdoor - £34,729
+-	Kitchen - £34,496
+-	Home - £25,604
+-	Electronics - £21,804
+-	Fitness - £14,049
+### The top 5 underperforming segments in Total Sales are:
+-	Vegetarian - £20
+-	Protein - £18
+-	Spreads - £17
+-	Salad Toppings - £10
+-	Dressing - £7
+## REVENUE
+Total Revenue in relation to all 12 regions ranged from £510,544 (East Midlands), the highest, to £34,987 (Nort East), which is the lowest.
+### The top 5 performing regions in Total Revenue are:
+-	East Midlands - £510,544
+-	Yorkshire and the Humber - £423,635
+-	Scotland - £379,396
+-	London - £351,379
+-	South West - £300,969
+### The top 5 underperforming regions in Total Sales are:
+-	West Midlands - £223,809
+-	East of England - £158,604
+-	Northern Ireland - £94,763
+-	Wales - £37,979
+-	North East - £34,987
+Total Revenue in relation to product segment ranged from £393,981 (Home), the highest, to £1,136 (Grooming), which is the lowest.
+### The top 5 performing segments in Total Revenue are:
+-	Outdoor - £378,040
+-	Kitchen - £359,589
+-	Home- £263,826
+-	Electronics – £210,649
+-	Fitness - £151,464
+### The top 5 underperforming segments in Total Revenue are:
+-	Vegetarian - £175
+-	Spreads - £106
+-	Salad Toppings - £103
+-	Protein - £90
+-	Dressing - £55
+# DISCOUNT
+-	Average Discount in relation to all 12 regions range from 0.167 (North East), the highest to 0.149 (South West), which is the lowest.
+-	Average Discount in relation to segment range from 0.200 (Baking & Cooking), the highest to 0.080 (Apps), which is the lowest.
+A summary of top selling and underselling products indicated the following:
+## TOP SELLERS
+### The top 5 selling products by revenue are:
+-	Portable Refrigerator Freezer - £51,380
+-	Portable Solar Generator - £51,174
+-	Electric Bike - £47,708
+-	Compact Digital Camera - £33,252
+-	Compact Dishwasher - £32,738
+### The top 5 underselling products by revenue are:
+-	Herb Seasond Rice - £18
+-	Flavored Rice Cakes - £18
+-	Canned Black Beans - £9
+-	Baking Soda - £9
+-	Cinnamon Raisin Bagels - £6
+
+A summary of high and low profit margin product by category and sub-category indicated the following:
+## PROFIT MARGIN
+### The top 5 product categories with the highest profit margin:
+-	Grooming – 70.4%
+-	Storage – 70.3%
+-	Baby – 70.1%
+-	Wearable – 70.0%
+-	Food – 69.1%
+### The top 5 products categories with the least profit margin:
+-	Crafts – 63.4%
+-	Sports – 61.1%
+-	Footwear – 60.7%
+-	Furniture – 60.0%
+-	Apps – 59.7%
+### The top 5 products sub-categories with the highest profit margin:
+-	Frozen Potatoe Products – 82.6%
+-	Fruit Dips – 80.9%
+-	Vinaigrettes – 80.5%
+-	Oatmeal – 80.0%
+-	Olives – 79.6%
+### The top 5 product sub-categories with the least profit margin: 
+-	Pre-Packaged Produce Kits – 57.8%
+-	Gourmet Ice Cream – 57.7%
+-	Dairy Desserts – 57.1%
+-	Wraps and Flatbreads – 56.8%
+-	Root Vegetables – 49.6%
+A summary of the sales, and revenue by type of order indicated the following:
+## SALES CHANNEL
+Key KPIs: There are 2 order types
+-	Online
+-	In-Store
+
+-	The total sales made online – 51.37%
+-	The total revenue made online – 51.48%
+-	The total sales made in-store – 48.63%
+-	The total revenue made in-store – 48.52%
+-	Over time, online revenue and in-store revenue grew when we compared figures in 2023 to 2024.
+-	As the data contained information up to 31 March 2025 when compared to the same period in 2024, the data revealed 2024 recording higher revenue for both online and in-store channels than 2025.
+A summary of gross profit per unit across country, region, and city indicated the following:
+## PRODUCT GROSS PROFIT
+Key KPIs:
+-	Gross Profit per Unit: £18.29
+-	Number of products: 1695
+-	Gross Profit per Unit ranges from £540 (Electric Bike), the highest to £1 (Zucchini), which is the lowest.
+
 # Dashboard images
 
 
