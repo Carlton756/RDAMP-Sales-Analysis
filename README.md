@@ -202,7 +202,7 @@ Key KPIs:
 ## Profit Margin dashboard
 ![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/bcff0d8e801a6b42d1f9e884873371f4552db5ee/Profit%20margin%20insights.png)
 ## Sales Channel dashboard
-![image alt](
+![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/d8d9c6062b6e1bc7751d34879a89962330977d8c/Sales%20channel%20insights.png)
 ## Gross Profit per Unit dashboard
 ![image alt](
 
