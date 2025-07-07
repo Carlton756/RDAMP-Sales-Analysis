@@ -76,7 +76,7 @@ Upon analyzing ACE Superstore Retail sales figures for the reporting period betw
 ## SALES
 A summary of total sales, Revenue and discount by Region and Segment indicated the following:
 Total Sales in relation to all 12 regions ranged from £47,906 (East Midlands), the highest, to £2,943 (North East), which is the lowest.
-Total Sales in relation to product segment ranged from £34,729 (Outdoor), the highest, to £7 (Dressing), which the lowest.
+Total Sales in relation to product segment ranged from £34,729 (Outdoor), the highest, to £7 (Dressing), which is the lowest.
 ### The top 5 performing regions in Total Sales are:
 -	East Midlands - £47,906
 -	Yorkshire and the Humber - £40,909
@@ -103,7 +103,7 @@ Total Sales in relation to product segment ranged from £34,729 (Outdoor), the h
 -	Dressing - £7
 ## REVENUE
 Total Revenue in relation to all 12 regions ranged from £510,544 (East Midlands), the highest, to £34,987 (Nort East), which is the lowest.
-Total Revenue in relation to product segment ranged from £378,040 (Home), the highest, to £55 (Grooming), which is the lowest.
+Total Revenue in relation to product segment ranged from £378,040 (Outdoor), the highest, to £55 (Dressing), which is the lowest.
 ### The top 5 performing regions in Total Revenue are:
 -	East Midlands - £510,544
 -	Yorkshire and the Humber - £423,635
