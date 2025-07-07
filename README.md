@@ -195,6 +195,7 @@ Key KPIs:
 -	Gross Profit per Unit ranges from £540 (Electric Bike), the highest to £1 (Zucchini), which is the lowest.
 
 # Dashboard images
-
+## Sales, Revenue and Discount dashboard
+![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/9b17738bdc2441a6db6747ece5dc9510cb925ac8/Summary%20of%20sales%2C%20revenue%20and%20discount%20rates.png)
 
 
