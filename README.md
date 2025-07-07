@@ -66,16 +66,17 @@ SUMX(
   7. Total Units = SUM('Ace Superstore RetailFact'[Quantity])
 - As the Sales and Cost Price columns contained negative values, I created the above measures to manage these without the analysis being affected.
 
-# ACE SUPERSTORE RETAIL PERFORMANCE & STRATEGIC INSIGHTS
+## ACE SUPERSTORE RETAIL PERFORMANCE & STRATEGIC INSIGHTS
 Upon analyzing ACE Superstore Retail sales figures for the reporting period between 2023 – 2025 some key KPIs to highlight are as follows:
 -	Total Revenue = £3.10M
 -	Total Sales = £293.89K
 -	Total Cost = £1.02M
 -	Total Units Sold = 113K
 -	Profit Margin (%) = 68%
-A summary of total sales, Revenue and discount by Region and Segment indicated the following:
 ## SALES
+A summary of total sales, Revenue and discount by Region and Segment indicated the following:
 Total Sales in relation to all 12 regions ranged from £47,906 (East Midlands), the highest, to £2,943 (North East), which is the lowest.
+Total Sales in relation to product segment ranged from £34,729 (Outdoor), the highest, to £7 (Dressing), which the lowest.
 ### The top 5 performing regions in Total Sales are:
 -	East Midlands - £47,906
 -	Yorkshire and the Humber - £40,909
@@ -88,9 +89,7 @@ Total Sales in relation to all 12 regions ranged from £47,906 (East Midlands), 
 -	Northern Ireland - £8,896
 -	Wales - £3,854
 -	North East - £2,943
-  
-Total Sales in relation to product segment ranged from £34,729 (Outdoor), the highest, to £7 (Dressing), which the lowest.
-### The top 5 performing segments in Total Sales are:
+ ### The top 5 performing segments in Total Sales are:
 -	Outdoor - £34,729
 -	Kitchen - £34,496
 -	Home - £25,604
@@ -104,6 +103,7 @@ Total Sales in relation to product segment ranged from £34,729 (Outdoor), the h
 -	Dressing - £7
 ## REVENUE
 Total Revenue in relation to all 12 regions ranged from £510,544 (East Midlands), the highest, to £34,987 (Nort East), which is the lowest.
+Total Revenue in relation to product segment ranged from £378,040 (Home), the highest, to £55 (Grooming), which is the lowest.
 ### The top 5 performing regions in Total Revenue are:
 -	East Midlands - £510,544
 -	Yorkshire and the Humber - £423,635
@@ -116,7 +116,6 @@ Total Revenue in relation to all 12 regions ranged from £510,544 (East Midlands
 -	Northern Ireland - £94,763
 -	Wales - £37,979
 -	North East - £34,987
-Total Revenue in relation to product segment ranged from £393,981 (Home), the highest, to £1,136 (Grooming), which is the lowest.
 ### The top 5 performing segments in Total Revenue are:
 -	Outdoor - £378,040
 -	Kitchen - £359,589
@@ -132,8 +131,8 @@ Total Revenue in relation to product segment ranged from £393,981 (Home), the h
 # DISCOUNT
 -	Average Discount in relation to all 12 regions range from 0.167 (North East), the highest to 0.149 (South West), which is the lowest.
 -	Average Discount in relation to segment range from 0.200 (Baking & Cooking), the highest to 0.080 (Apps), which is the lowest.
-A summary of top selling and underselling products indicated the following:
 ## TOP SELLERS
+A summary of top selling and underselling products indicated the following:
 ### The top 5 selling products by revenue are:
 -	Portable Refrigerator Freezer - £51,380
 -	Portable Solar Generator - £51,174
@@ -147,8 +146,9 @@ A summary of top selling and underselling products indicated the following:
 -	Baking Soda - £9
 -	Cinnamon Raisin Bagels - £6
 
-A summary of high and low profit margin product by category and sub-category indicated the following:
+
 ## PROFIT MARGIN
+A summary of high and low profit margin product by category and sub-category indicated the following:
 ### The top 5 product categories with the highest profit margin:
 -	Grooming – 70.4%
 -	Storage – 70.3%
@@ -173,8 +173,9 @@ A summary of high and low profit margin product by category and sub-category ind
 -	Dairy Desserts – 57.1%
 -	Wraps and Flatbreads – 56.8%
 -	Root Vegetables – 49.6%
-A summary of the sales, and revenue by type of order indicated the following:
+
 ## SALES CHANNEL
+A summary of the sales, and revenue by type of order indicated the following:
 Key KPIs: There are 2 order types
 -	Online
 -	In-Store
@@ -185,8 +186,9 @@ Key KPIs: There are 2 order types
 -	The total revenue made in-store – 48.52%
 -	Over time, online revenue and in-store revenue grew when we compared figures in 2023 to 2024.
 -	As the data contained information up to 31 March 2025 when compared to the same period in 2024, the data revealed 2024 recording higher revenue for both online and in-store channels than 2025.
-A summary of gross profit per unit across country, region, and city indicated the following:
+
 ## PRODUCT GROSS PROFIT
+A summary of gross profit per unit across country, region, and city indicated the following:
 Key KPIs:
 -	Gross Profit per Unit: £18.29
 -	Number of products: 1695
