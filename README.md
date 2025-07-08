@@ -16,7 +16,8 @@ This report serves as a baseline to identify regional performance gaps, customer
 - Columns Country and Region within the Ace Superstore Retail dataset had missing information in several cells. I used XLOOKUP in excel to fill in the missing information. The columns with similar names within the Store Locations dataset had complete information that was able to fill in the missing information.
 -	I created two new columns because of the above step called Country-Adjusted and Region-Adjusted and removed the original columns Country and Region.
 -	I checked both datasets for duplicate rows. None were present.
-![image alt]
+## Star Schema
+![image alt](https://github.com/Carlton756/RDAMP-Sales-Analysis/blob/811494e1b4c349049958dd6a3f1808cb5861d566/Star%20Schema.png)
 ## Analysis using Power BI
 -	I imported the new datasets to Power BI to conduct further EDA and cleaning.
 -	I noticed that within my Adjusted Region column thaere were both "Yorkshire & the Humber" and "Yorkshire and the Humber". I used the Replace Value operation to replace the "&" with "and" so the datset had the correct Yorkshire and the Humber as a region.
