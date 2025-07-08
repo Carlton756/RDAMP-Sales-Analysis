@@ -26,15 +26,14 @@ This report serves as a baseline to identify regional performance gaps, customer
 if Text.Contains([Category], " - ") 
     then Text.BeforeDelimiter([Category], " - ") 
     else Text.BeforeDelimiter([Category], " ")
- 	Named column Category1
 ```
+- Named column Category1
 &
 ```  
  	if Text.Contains([Category], " - ") 
     then Text.AfterDelimiter([Category], " - ") 
     else Text.AfterDelimiter([Category], " ")
 ```
-
 - Named column Segment
 - I removed error from the column named Category1.
 - The segment column created had null values as a result of the initial Category column containing information without "-"
@@ -65,7 +64,8 @@ SUMX(
     IF('Ace Superstore RetailFact'[Cost Price] > 0, 'Ace Superstore RetailFact'[Cost Price] * 'Ace Superstore RetailFact'[Quantity], 0)
 )
   5. Total Discount = AVERAGE('Ace Superstore RetailFact'[Discount])
-  6. Total Revenue = 
+  6.
+     Total Revenue = 
 SUMX(
     'Ace Superstore RetailFact', 
     IF('Ace Superstore RetailFact'[Sales] > 0, 'Ace Superstore RetailFact'[Sales] * 'Ace Superstore RetailFact'[Quantity], 0)
