@@ -219,7 +219,7 @@ Key KPIs:
 -	Possibly switch suppliers for low-margin categories.
 -	Consider dynamic pricing models based on seasonal trends and inventory turnover.
 ## Online and In-store revenue are almost balanced, but so far 2025 performance figures have fallen compared to 2024 figures for the same period – 
--	Reexamine online user experience and checkout information to identify any negative contributing factors e.g., cart abandonment or payment failures.
+-	Re-examine online user experience and checkout information to identify any negative contributing factors e.g., cart abandonment or payment failures.
 -	Introduce channel specific deals such as online or in-store loyalty campaigns.
 -	Implement click-and-collect options as enhance convenience is a welcomed feature. This would also lead to an increase in basket size
 ## Discount varied by region and segment – 
