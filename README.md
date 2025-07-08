@@ -22,14 +22,18 @@ This report serves as a baseline to identify regional performance gaps, customer
 -	I imported the new datasets to Power BI to conduct further EDA and cleaning.
 -	I noticed that within my Adjusted Region column thaere were both "Yorkshire & the Humber" and "Yorkshire and the Humber". I used the Replace Value operation to replace the "&" with "and" so the datset had the correct Yorkshire and the Humber as a region.
 -	For the Category column, I needed to separate the information into two separate columns, Category and Segment. The information within the original Category column was separerated by "-". I was able to create the two columns using Custom Column operation using the M-codes:
-  if Text.Contains([Category], " - ") 
+  ```
+if Text.Contains([Category], " - ") 
     then Text.BeforeDelimiter([Category], " - ") 
     else Text.BeforeDelimiter([Category], " ")
  	Named column Category1
+```
  	&
+```  
  	if Text.Contains([Category], " - ") 
     then Text.AfterDelimiter([Category], " - ") 
     else Text.AfterDelimiter([Category], " ")
+```
  	Named column Segment
 - I removed error from the column named Category1.
 - The segment column created had null values as a result of the initial Category column containing information without "-"
